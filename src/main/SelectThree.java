@@ -71,6 +71,6 @@ public class SelectThree {
 		}else{
 			return false;
 		}
-		}
+	}
 
 }
